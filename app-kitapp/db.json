@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "way": "ebook",
+      "title": "Lord Of The Rings",
+      "genre": "Fantasy",
+      "author": "Tolkien",
+      "page": 564,
+      "image": "https://m.media-amazon.com/images/I/A1yy50fuVnL._AC_UY218_.jpg",
+      "year": 1995
+    },
+    {
+      "way": "paper",
+      "title": "Kara Delikler",
+      "image": "https://m.media-amazon.com/images/I/41u75CtfcXL._SX293_BO1,204,203,200_.jpg",
+      "genre": "Science",
+      "author": "Hawking",
+      "page": 595,
+      "year": "2002",
+      "id": 2
+    },{
+        "way": "paper",
+        "title": "Selamm Delikler",
+        "image": "https://m.media-amazon.com/images/I/41u75CtfcXL._SX293_BO1,204,203,200_.jpg",
+        "genre": "Science",
+        "author": "Hawking",
+        "page": 595,
+        "year": "2002",
+        "id": 3
+      },
+      {
+        "way": "paper",
+        "title": "Maşallah Delikler",
+        "image": "https://m.media-amazon.com/images/I/41u75CtfcXL._SX293_BO1,204,203,200_.jpg",
+        "genre": "Science",
+        "author": "Hawking",
+        "page": 595,
+        "year": "2002",
+        "id": 4
+      },
+      {
+        "way": "paper",
+        "title": "Güzel Delikler",
+        "image": "https://m.media-amazon.com/images/I/41u75CtfcXL._SX293_BO1,204,203,200_.jpg",
+        "genre": "Science",
+        "author": "Hawking",
+        "page": 595,
+        "year": "2002",
+        "id": 5
+      },
+      {
+        "way": "paper",
+        "title": "Kara Kuru",
+        "image": "https://m.media-amazon.com/images/I/41u75CtfcXL._SX293_BO1,204,203,200_.jpg",
+        "genre": "Science",
+        "author": "Hawking",
+        "page": 595,
+        "year": "2002",
+        "id": 6
+      }
+
+  ]
+}
